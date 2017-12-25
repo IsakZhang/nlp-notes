@@ -7,14 +7,18 @@ This repository contains some of my NLP notes and everything I found excellent a
 - [Chinese Information Processing Report](http://cips-upload.bj.bcebos.com/cips2016.pdf): a very good review discussing both Chinese and English language processing
 
 ### Deep Learning for NLP
-- [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/): a well-explained blog about CNN and how it's applied to NLP tasks
-- [Deep Learning, NLP, and Representations by Colah](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/): mainly about word embedding
+- [Deep Learning, NLP, and Representations by Colah](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/): “The **representation perspective** of deep learning is a powerful view that seems to answer why deep neural networks are so effective”
 - [A Primer on Neural Network Models for Natural Language Processing by Yoav Goldberg](http://u.cs.biu.ac.il/~yogo/nnlp.pdf): very famous but also quite long, haven't read yet
+- [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/): a well-explained blog about CNN and how it's applied to NLP tasks
  
  
 ## Word Representation
+- [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/) by NSS
 ### word2vec
-- Two awesome tutorials by Chris McCormick: [Part 1](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) is about Skip-gram and [Part 2](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/) is about some methods(including Negative Sampling) to address issues in the basic SG model.
+- 2 papers
+ - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+ - [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+- Two awesome tutorials by Chris McCormick: [Part 1 is about Skip-gram](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) and [Part 2 is about negative sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 - On word embeddings by Sebastian Ruder: [Part 1](http://ruder.io/word-embeddings-1/index.html) [Part 2](http://ruder.io/word-embeddings-softmax/index.html) [Part 3](http://ruder.io/secret-word2vec/index.html)
 - Kaggle Word2Vec Tutorial: 4 parts included [[link]](https://www.kaggle.com/c/word2vec-nlp-tutorial)
  
