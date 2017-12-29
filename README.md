@@ -4,11 +4,12 @@ This repository contains some of my NLP notes and everything I found excellent a
 ## Introduction
 ### Big picture
 - [Natural Language Processing: State of The Art, Current Trends and Challenges](https://arxiv.org/abs/1708.05148)
-- [Chinese Information Processing Report](http://cips-upload.bj.bcebos.com/cips2016.pdf): a very good review discussing both Chinese and English language processing
+- [Chinese Information Processing Report (2016)](http://cips-upload.bj.bcebos.com/cips2016.pdf): a very good review discussing both Chinese and English language processing
 
 ### Deep Learning for NLP
 - [Deep Learning, NLP, and Representations by Colah](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/): “The **representation perspective** of deep learning is a powerful view that seems to answer why deep neural networks are so effective”
 - [A Primer on Neural Network Models for Natural Language Processing by Yoav Goldberg](http://u.cs.biu.ac.il/~yogo/nnlp.pdf): very famous but also quite long, haven't read yet
+- [Deep Learning for Natural Language Processing by Xipeng Qiu](http://nlp.fudan.edu.cn/xpqiu/slides/20160618_DL4NLP@CityU.pdf)
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/): a well-explained blog about CNN and how it's applied to NLP tasks
  
  
