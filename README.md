@@ -16,9 +16,6 @@ This repository contains some of my NLP notes and everything I found excellent a
 ## Word Representation
 - [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/) by NSS
 ### word2vec
-- 2 papers
- - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
- - [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 - Two awesome tutorials by Chris McCormick: [Part 1 is about Skip-gram](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) and [Part 2 is about negative sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 - On word embeddings by Sebastian Ruder: [Part 1](http://ruder.io/word-embeddings-1/index.html) [Part 2](http://ruder.io/word-embeddings-softmax/index.html) [Part 3](http://ruder.io/secret-word2vec/index.html)
 - Kaggle Word2Vec Tutorial: 4 parts included [[link]](https://www.kaggle.com/c/word2vec-nlp-tutorial)
@@ -34,4 +31,5 @@ This repository contains some of my NLP notes and everything I found excellent a
  
  
 ## Summarization
+- [How to Run Text Summarization with TensorFlow](http://pavel.surmenok.com/2016/10/15/how-to-run-text-summarization-with-tensorflow/) by Pavel Surmenok
 - [文本自动摘要技术 by 万小军](https://github.com/IsakZhang/NLP-notes/blob/master/Data/%E4%B8%87%E5%B0%8F%E5%86%9B-%E6%96%87%E6%9C%AC%E8%87%AA%E5%8A%A8%E6%91%98%E8%A6%81%E6%8A%80%E6%9C%AF.pdf)
