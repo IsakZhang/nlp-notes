@@ -33,3 +33,7 @@ This repository contains some of my NLP notes and everything I found excellent a
 ## Summarization
 - [How to Run Text Summarization with TensorFlow](http://pavel.surmenok.com/2016/10/15/how-to-run-text-summarization-with-tensorflow/) by Pavel Surmenok
 - [文本自动摘要技术 by 万小军](https://github.com/IsakZhang/NLP-notes/blob/master/Data/%E4%B8%87%E5%B0%8F%E5%86%9B-%E6%96%87%E6%9C%AC%E8%87%AA%E5%8A%A8%E6%91%98%E8%A6%81%E6%8A%80%E6%9C%AF.pdf)
+
+## Linguistics
+- [Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language): a good MOOC about linguistics on Coursera
+
