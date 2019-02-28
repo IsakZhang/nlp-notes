@@ -1,4 +1,4 @@
-title: Best NLP Tutorials I ever read
+# Best NLP Tutorials I ever read
 
 ---
 
@@ -28,7 +28,7 @@ P.S. This is not an exhausting list about NLP resources like [awesome-nlp](https
 - [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/) by NSS
 - Two awesome tutorials about word2vec by Chris McCormick: [Part 1 is about Skip-gram](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) and [Part 2 is about negative sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 
-##### Transformer
+### Transformer
 
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) and [The Illustrated BERT](http://jalammar.github.io/illustrated-bert/): breaks the models apart and explains their details
 - Why transformer is better than CNN/RNN as feature extraction ([in Chinese](https://zhuanlan.zhihu.com/p/54743941))
